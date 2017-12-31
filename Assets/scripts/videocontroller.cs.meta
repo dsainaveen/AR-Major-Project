@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 4666b2c0c1d5df348b2f08102aa4a837
+timeCreated: 1514708186
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - movTexture: {fileID: 15200000, guid: f6fa452664d4aab46b50130e57079892, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

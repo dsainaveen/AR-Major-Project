@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/EDCscene.unity
+- path: Assets/dam.unity
   isLoaded: 1
   isActive: 1
